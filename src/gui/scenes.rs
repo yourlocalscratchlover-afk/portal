@@ -459,8 +459,8 @@ impl Default for Scenes {
                     },
                     Scene {
                         name: "pocket dimension in pocket dimension (by cuongvd)",
-                        link: "pocketdimensioninpocketdimension",
-                        content: include_str!("../../scenes/pocketdimensioninpocketdimension.ron"),
+                        link: "pocket_dimension_in_pocket_dimension",
+                        content: include_str!("../../scenes/pocket_dimension_in_pocket_dimension.ron"),
                         hidden: false,
                     },
                 ],
