@@ -518,7 +518,7 @@ impl Default for Scenes {
                         hidden: false,
                     },
                     Scene {
-                        name: "Time Portal (by AiQube)",
+                        name: "Time Portal (Progress Idea From cuongvd) (by AiQube)",
                         link: "time_portal",
                         content: include_str!("../../scenes/time_portal.ron"),
                         hidden: false,
@@ -533,6 +533,12 @@ impl Default for Scenes {
                         name: "Time Portal Plus Ultra (by cuongvd and AiQube)",
                         link: "time_portal_plus_ultra",
                         content: include_str!("../../scenes/time_portal_plus_ultra.ron"),
+                        hidden: false,
+                    },
+                    Scene {
+                        name: "2 Negative Monoportals",
+                        link: "duo_negative_monoportal",
+                        content: include_str!("../../scenes/duo_negative_monoportal.ron"),
                         hidden: false,
                     },
                 ],
